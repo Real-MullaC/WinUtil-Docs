@@ -4,4 +4,4 @@
 ![GitHub Downloads (all assets, latest release)](https://img.shields.io/github/downloads/ChrisTitusTech/winutil/latest/total)
 
 
-[FAQ](./user/faq.md)
+[Docs](https://real-mullac.github.io/WinUtil-Docs/)
