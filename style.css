@@ -27,3 +27,8 @@ h1.center {
 .nav-bar a:hover {
     background-color: rgb(109, 103, 103)
 }
+
+code {
+    background-color: rgb(109, 103, 103);
+    color: white;
+}
