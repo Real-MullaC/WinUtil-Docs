@@ -32,3 +32,15 @@ code {
     background-color: rgb(109, 103, 103);
     color: white;
 }
+
+.navigation a {
+    background-color: rgb(63, 65, 66);
+    text-decoration: none;
+    color: white;
+    border: 10px;
+    border-color: white;
+    font-size: 20px;
+    text-align: center;
+    padding: 14px 16px;
+    float: left;
+}
