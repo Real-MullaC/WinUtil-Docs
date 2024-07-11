@@ -33,6 +33,10 @@ code {
     color: white;
 }
 
+.navigation {
+    padding-top: 30px;
+}
+
 .navigation a {
     background-color: rgb(63, 65, 66);
     text-decoration: none;
