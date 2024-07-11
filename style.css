@@ -50,7 +50,7 @@ code {
     border-radius: 10px;
 }
 
-a.nextpage {
+.nextpage a {
     background-color: rgb(63, 65, 66);
     text-decoration: none;
     color: white;
