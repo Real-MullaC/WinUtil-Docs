@@ -5,6 +5,7 @@ nav:
   - Introduction: 'index.md'
   - Contibute: 'contribute.md'
   - Updates: 'updates.md'
+  - FAQ: 'faq.md'
 
 theme:
   name: material
