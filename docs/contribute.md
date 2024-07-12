@@ -4,13 +4,9 @@
 ## Testing your changes
 * Once you think you are ready to make a PR to the Main WinUtil branch. Test it. You are probably asking how do I test it?
 * To test to see if your changes work run the command below in a powershell terminal as Admin after changing to the directory where the WinUtil code is located.
-* ```ps1
-    ./Compile.ps1
-    ```
+* `./Compile.ps1`
 * After running that command and it completeing with no errors run the command below.
-* ```ps1
-    ./winutil.ps1
-  ```
+* `./winutil.ps1`
 * After seeing that your chnages work properly feel free to make a PR and follow the documentation below.
 
 ## Making a PR
