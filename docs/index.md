@@ -8,10 +8,3 @@ There are 2 ways to run WinUtil. The 2 ways goes as follows:
 * `irm https://github.com/ChrisTitusTech/winutil/releases/latest/download/winutil.ps1 | iex` - Runs WinUtil from github using main branch.
 * `irm christitus.com/windev | iex` - Runs WinUtil from ChrisTitus website using dev branch.
 * `irm https://github.com/ChrisTitusTech/winutil/releases/latest/download/windev.ps1 | iex` - Runs WinUtil from github using dev branch.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
