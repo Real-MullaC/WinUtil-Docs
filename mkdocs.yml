@@ -21,8 +21,8 @@ theme:
     - content.code.annotation
     - content.code.copy
   language: en
-  logo: img/favicon.png
-  favicon: img/favicon.png
+  logo: assets/favicon.png
+  favicon: assets/favicon.png
   palette:
     - scheme: default
       toggle:

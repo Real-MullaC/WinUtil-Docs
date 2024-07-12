@@ -2,18 +2,18 @@
 
 ## Program Installation
 * To install programs select the programs you wish to install like the picture below.
-![Program Install](img/ProgramInstall.png)
+![Program Install](assets/ProgramInstall.png)
 * Once you have selected the programs you wish to install click the select Install/Upgrade Selected button as seen below.
-![Program Install Button](img/ProgramInstallButton.png)
+![Program Install Button](assets/ProgramInstallButton.png)
 
 ## Program Updates
 * To update programs select the programs you wish to update like the picture below.
-![Program Update](img/ProgramInstall.png)
+![Program Update](assets/ProgramInstall.png)
 * Once you have selected the programs you wish to update click the select Install/Upgrade Selected button as seen below.
-![Program Update Button](img/ProgramInstallButton.png)
+![Program Update Button](assets/ProgramInstallButton.png)
 
 ## Program Uninstall
 * To uninstall programs select the programs you wish to uninstall like the picture below.
-![Program Uninstall](img/ProgramInstall.png)
+![Program Uninstall](assets/ProgramInstall.png)
 * Once you have selected the programs you wish to uninstall click the select Uninstall Selected button as seen below.
-![Program Uninstall Button](img/Programuninstall.png)
+![Program Uninstall Button](assets/ProgramUninstall.png)
